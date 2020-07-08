@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sliders_And_Listeners - App", "Sliders_And_Listeners_App.vcxproj", "{72C2B45B-2039-1431-8BC2-56917F0D1105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C2B45B-2039-1431-8BC2-56917F0D1105}.Debug|x64.ActiveCfg = Debug|x64
+		{72C2B45B-2039-1431-8BC2-56917F0D1105}.Debug|x64.Build.0 = Debug|x64
+		{72C2B45B-2039-1431-8BC2-56917F0D1105}.Release|x64.ActiveCfg = Release|x64
+		{72C2B45B-2039-1431-8BC2-56917F0D1105}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

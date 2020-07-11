@@ -5,8 +5,20 @@
               jucerFormatVersion="1">
   <MAINGROUP id="WzUe3v" name="Sliders_And_Listeners">
     <GROUP id="{4D58B6E6-8805-5575-980C-4E6807236A2B}" name="Source">
+      <FILE id="sZqXhD" name="DurationController.cpp" compile="1" resource="0"
+            file="Source/DurationController.cpp"/>
+      <FILE id="ogiFWn" name="DurationController.h" compile="0" resource="0"
+            file="Source/DurationController.h"/>
+      <FILE id="leyqeW" name="ControlsComponent.cpp" compile="1" resource="0"
+            file="Source/ControlsComponent.cpp"/>
+      <FILE id="ke95jh" name="ControlsComponent.h" compile="0" resource="0"
+            file="Source/ControlsComponent.h"/>
       <FILE id="xRG0JV" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
       <FILE id="zhBrJt" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="T350qB" name="FrequencyController.cpp" compile="1" resource="0"
+            file="Source/FrequencyController.cpp"/>
+      <FILE id="RUnwvX" name="FrequencyController.h" compile="0" resource="0"
+            file="Source/FrequencyController.h"/>
       <FILE id="EpFWOI" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
     </GROUP>
@@ -34,4 +46,7 @@
     <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
   </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
 </JUCERPROJECT>

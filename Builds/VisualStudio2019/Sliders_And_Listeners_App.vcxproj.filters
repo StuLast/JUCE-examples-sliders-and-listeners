@@ -202,7 +202,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\DurationController.cpp">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ControlsComponent.cpp">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Main.cpp">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FrequencyController.cpp">
       <Filter>Sliders_And_Listeners\Source</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\MainComponent.cpp">
@@ -1389,7 +1398,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\DurationController.h">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ControlsComponent.h">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\MainComponent.h">
+      <Filter>Sliders_And_Listeners\Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FrequencyController.h">
       <Filter>Sliders_And_Listeners\Source</Filter>
     </ClInclude>
     <ClInclude Include="C:\JUCE\modules\juce_core\containers\juce_AbstractFifo.h">

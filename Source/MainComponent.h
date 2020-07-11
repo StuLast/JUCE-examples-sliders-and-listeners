@@ -1,6 +1,7 @@
 #pragma once
 
 #include <JuceHeader.h>
+#include "ControlsComponent.h"
 
 //==============================================================================
 /*
@@ -22,6 +23,7 @@ private:
     //==============================================================================
     // Your private member variables go here...
 
+    ControlsComponent controlPanel;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MainComponent)
 };
